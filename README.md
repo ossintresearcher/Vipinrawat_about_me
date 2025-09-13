@@ -104,3 +104,5 @@ I’m always open to collaboration, knowledge exchange, and discussions about OS
  or follow me here on GitHub to track my progress.
 
 ✨ “Information is everywhere. Intelligence is knowing how to use it.”
+
+for more information : https://www.linkedin.com/in/ossintresearcher/
